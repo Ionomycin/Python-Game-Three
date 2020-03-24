@@ -92,7 +92,7 @@ while (attempts != 2):
         fileNameInput = str(input("Enter a new file name here: "))
 
         print("Please wait while I render the name. This will take three seconds.")
-        # time.sleep(3)
+        time.sleep(3)
 
         fullFile = str(fileNameInput + ".txt")
 
