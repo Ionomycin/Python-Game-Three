@@ -24,10 +24,10 @@ INSTALLING AND USING PYCHARM (NOT IDLE):
 
 7. There are two ways you can import my file into PyCharm. 
 
-7a. IF YOU DOWNLOADED AND SAVED THE FILE TO THE DESKTOP OF YOUR COMPUTER DO THE FOLLOWING: File > Open > Search for my .py document > Click "Open."
-7b. IF YOU ARE COPYING MY FILE, DO THE FOLLOWING: File > New > File > Name the file whatever you'd like > Press Enter > Click outside of the file name box and instaed click the huge list of file options, scroll up to Python (NOT PYTHON STUB) > Select "Python" > Click "Ok" > It will create the file > Copy and paste my .py contents into that file.
+8. IF YOU DOWNLOADED AND SAVED THE FILE TO THE DESKTOP OF YOUR COMPUTER DO THE FOLLOWING: File > Open > Search for my .py document > Click "Open."
+9. IF YOU ARE COPYING MY FILE, DO THE FOLLOWING: File > New > File > Name the file whatever you'd like > Press Enter > Click outside of the file name box and instaed click the huge list of file options, scroll up to Python (NOT PYTHON STUB) > Select "Python" > Click "Ok" > It will create the file > Copy and paste my .py contents into that file.
 
-8. To RUN my programs: Go to the top navigation bar > Run > Run 'File_Name_You_Supplied.' If it pops up with another box verifying the run, press enter and it will start my program. You can stop my program at anytime by using the red "Stop" button on the top right corner next to the search magnifying glass.
+10. To RUN my programs: Go to the top navigation bar > Run > Run 'File_Name_You_Supplied.' If it pops up with another box verifying the run, press enter and it will start my program. You can stop my program at anytime by using the red "Stop" button on the top right corner next to the search magnifying glass.
 
 Enjoy
 --Ionomycin
