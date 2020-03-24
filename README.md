@@ -23,6 +23,7 @@ INSTALLING AND USING PYCHARM (NOT IDLE):
 6. Click: File > New Project > Replace "Untitled" with a name for the project folder > Click "Create" > The project folder will be created and you will be dropped into it. > Once in the project folder, go back to "File."
 
 7. There are two ways you can import my file into PyCharm. 
+
 7a. IF YOU DOWNLOADED AND SAVED THE FILE TO THE DESKTOP OF YOUR COMPUTER DO THE FOLLOWING: File > Open > Search for my .py document > Click "Open."
 7b. IF YOU ARE COPYING MY FILE, DO THE FOLLOWING: File > New > File > Name the file whatever you'd like > Press Enter > Click outside of the file name box and instaed click the huge list of file options, scroll up to Python (NOT PYTHON STUB) > Select "Python" > Click "Ok" > It will create the file > Copy and paste my .py contents into that file.
 
